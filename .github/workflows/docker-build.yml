@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: ${{ github.event_name != 'pull_request' }}
-          tags: klarot/wordsmith-web:latest
+          tags: ghcr.io/klarot/wordsmith-web:latest
