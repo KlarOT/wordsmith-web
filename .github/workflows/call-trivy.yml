@@ -6,4 +6,4 @@ on:
 jobs:
   scan:
     name: Scan
-    uses: KlarOT/actions/.github/workflows/reuseable-trivy.yml@main
+    uses: KlarOT/actions/.github/workflows/reusable-trivy.yml@main
