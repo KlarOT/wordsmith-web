@@ -6,4 +6,4 @@ on:
 jobs:
   scan:
     name: Scan
-    uses: klarot/wordsmith-web/.github/workflows/reusable-trivy.yml@main
+    uses: KlarOT/wordsmith-web/.github/workflows/reusable-trivy.yml@main
